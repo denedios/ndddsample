@@ -1,5 +1,5 @@
 NDDDSample is the project which demonstrates a practical implementation of the building block patterns described in the Eric Evans book 
-based on a real but simplified cargo domain (which is also used as example in Eric Evans’ book). 
+based on a real but simplified cargo domain (which is also used as example in Eric Evansâ€™ book). 
 
 NDDDSample is the port of Domain-Driven Design Sample from Java to C# 
 
